@@ -2,7 +2,7 @@
 
 Jeu d'arcade en HTML/JavaScript inspiré de *Donkey Kong Jr.* — un seul fichier, aucune dépendance, jouable sur **ordinateur et smartphone**.
 
-▶️ **Jouer en ligne** : `https://<ton-pseudo>.github.io/donkey-kong-jr-retro/` (après activation de GitHub Pages, voir plus bas)
+▶️ **Jouer en ligne** : https://byjpe.github.io/DK-jr-80-S/
 
 ## Fonctionnalités
 - Pixel art dans le style de l'arcade : poutres, lianes, fruits, cage de DK, clé, îlots-arbres et eau
@@ -23,19 +23,6 @@ Jeu d'arcade en HTML/JavaScript inspiré de *Donkey Kong Jr.* — un seul fichie
 
 ## Lancer en local
 Ouvrir `index.html` dans un navigateur. Aucun serveur ni installation nécessaire.
-
-## Publier avec GitHub Pages
-1. Créer un dépôt `donkey-kong-jr-retro` sur GitHub, puis, dans ce dossier :
-   ```bash
-   git init
-   git add .
-   git commit -m "Donkey Kong Jr. rétro : première version"
-   git branch -M main
-   git remote add origin https://github.com/<ton-pseudo>/donkey-kong-jr-retro.git
-   git push -u origin main
-   ```
-2. Sur GitHub : **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `/ (root)`**.
-3. Le jeu est disponible quelques minutes plus tard à l'adresse indiquée en haut.
 
 ## Mentions
 Projet de fan, non officiel, sans lien avec Nintendo. *Donkey Kong* et *Donkey Kong Jr.* sont des marques de Nintendo. Aucun asset officiel n'est utilisé : tous les sprites sont redessinés en pixel art dans le code. Le code est publié sous licence MIT (voir `LICENSE`).
